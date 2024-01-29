@@ -3,7 +3,7 @@ Welcome to SafeGPT's documentation!
 
 **SafeGPT** helps users to retain their privacy while using any LLM APIs
 that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+It is available on AWS Marketplace <https://aws/marketplace/container/SafeGPT/>`_
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
