@@ -1,8 +1,8 @@
 Welcome to SafeGPT's documentation!
 ===================================
 
-**SafeGPT** helps users to retain their privacy while using any LLM APIs
-that creates recipes mixing random ingredients.
+**SafeGPT** helps users to retain their privacy while using any LLM APIs.
+
 It is available on AWS Marketplace <https://aws/marketplace/container/SafeGPT/>`_
 and offers a *simple* and *intuitive* API.
 
