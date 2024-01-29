@@ -1,6 +1,7 @@
 What is SafeGPT and why would I need it?
 ===================================
-Privacy issues in GenAI
+.. _Emerging privacy issues:
+Emerging privacy issues
 ----------------
 xxxxxx
 Exsiting solutions
