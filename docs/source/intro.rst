@@ -1,4 +1,4 @@
-What is SafeGPT and why would I need it?
+Intro
 ===================================
 .. _Emerging privacy issues:
 Emerging privacy issues
@@ -11,7 +11,7 @@ xxxxxx
 
 SafeGPT
 ----------------
-xxxxxx
+What is SafeGPT and why would I need it?
 
 Comparison
 ------------
