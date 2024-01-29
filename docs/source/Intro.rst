@@ -4,15 +4,19 @@ What is SafeGPT and why would I need it?
 Emerging privacy issues
 ----------------
 xxxxxx
+
 Exsiting solutions
 ----------------
 xxxxxx
+
 SafeGPT
 ----------------
 xxxxxx
+
 Comparison
 ------------
 xxxxxx
+
 More features coming!
 ----------------
 xxxxxx
