@@ -21,3 +21,4 @@ Contents
    intro
    usage
    api
+   use cases
