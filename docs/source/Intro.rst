@@ -10,7 +10,7 @@ SafeGPT
 ----------------
 xxxxxx
 Comparison
-----------------
+------------
 xxxxxx
 More features coming!
 ----------------
