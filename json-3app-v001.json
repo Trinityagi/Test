@@ -1,0 +1,81 @@
+{
+  "communicationData": {
+    "email": {
+      "threadId": "1736ccf5d7b4d452",
+      "messages": [
+        {
+          "date": "Fri, 4 May 2024 13:51:00 -0700 (PDT)",
+          "toEmailAddress": ["phillip.allen@enron.com"],
+          "fromEmailAddress": "john.lavorato@enron.com",
+          "subject": "Re: Project CaterPillar Brainstorming",
+          "bodyText": "Hello Philip, As far as the business meetings, I think it would be more productive to try and stimulate discussions across the different groups about what is working and what is not. Best, John",
+          "messageId": "eb7a6bc1-e804-013a-9f18-001844e0ec34@mail.gmail.com"
+        },
+        {
+          "date": "Thu, 3 May 2024 10:15:00 -0700 (PDT)",
+          "toEmailAddress": ["john.lavorato@enron.com"],
+          "fromEmailAddress": "phillip.allen@enron.com",
+          "subject": "Project CaterPillar Brainstorming",
+          "bodyText": "John, I wanted to discuss the progress of the CaterPillar project. Could we set up a meeting to go over some ideas? Regards, Philip",
+          "messageId": "c2b0e6b1-e702-013a-8e14-001844e0ec34@mail.gmail.com"
+        }
+      ]
+    },
+    "discord": {
+      "messageId": "233648473390448641",
+      "channelId": "103735883630395392",
+      "author": "phillip.allen@enron.com",
+      "content": "I have something like this, please let me know what changes you'd like for me to make! I can also do all of the other scenarios by the end of the day so you have all the necessary slides.",
+      "timestamp": "2024-07-31T14:30:00Z",
+      "mentions": [
+        "john.allen@enron.com",
+        "tom.allen@enron.com"
+      ]
+    }
+  },
+  "taskManagement": {
+    "trello": {
+      "listId": "5abbe4b7ddc1b351ef961414",
+      "listTitle": "Sprint 21 - Done",
+      "cards": [
+        {
+          "cardId": "5abbe4b7ddc1b351ef961415",
+          "cardCreated": "2023-09-16T16:19:17.156Z",
+          "cardTitle": "Integration with LangChain Prompt",
+          "description": "The prompt template classes in LangChain are built to make constructing prompts with dynamic inputs easier.",
+          "cardStart": "2023-09-16T16:19:17.156Z",
+          "cardDue": "2023-09-17T16:19:17.156Z",
+          "members": [
+            "phillip.allen@enron.com",
+            "john.lavorato@enron.com"
+          ],
+          "comments": [
+            {
+              "commentId": "5abbe4b7ddc1b351ef961416",
+              "commentName": "Will be implemented without ML Flow integration.",
+              "commenter": "phillip.allen@enron.com",
+              "commentCreated": "2023-09-17T16:19:17.156Z"
+            }
+          ],
+          "checklists": [
+            {
+              "checklistId": "5abbe4b7ddc1b351ef961417",
+              "checklistName": "Checklist",
+              "checkItems": [
+                {
+                  "checkitemId": "5abbe4b7ddc1b351ef961418",
+                  "checkitemName": "Langchain prompt template for PII data protector",
+                  "checkitemDue": "2023-09-17T16:19:17.156Z",
+                  "checkitemMember": [
+                    "phillip.allen@enron.com",
+                    "john.lavorato@enron.com"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
